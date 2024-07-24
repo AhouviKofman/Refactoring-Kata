@@ -21,7 +21,6 @@ $items = [
     // this conjured item does not work properly yet
     new Item('Conjured Mana Cake', 3, 6),
 ];
-
 $app = new GildedRose($items);
 
 $days = 2;
